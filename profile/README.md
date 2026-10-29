@@ -1,3 +1,5 @@
+![dotlabs](./dotlabs-header.png)
+
 # dotlabs.dev
 
 **dotlabs.dev** is an open-source developer lab focused on building practical tools
@@ -90,3 +92,12 @@ Explore, fork, break things, and contribute.
 ---
 
 **Build tools. Reduce friction.**
+
+
+---
+
+## Meet Kudo
+
+🟠 Say hi to **Kudo**, our resident cwd: the little amber dot that lives at the bottom of our slash. Wherever you run `./`, Kudo is already there. [Watch the intro ▶️](https://youtu.be/VslMh2gbBIc)
+
+🌐 [dotlabs.dev](https://dotlabs.dev) · ▶️ [YouTube](https://www.youtube.com/@dotlabshq)
